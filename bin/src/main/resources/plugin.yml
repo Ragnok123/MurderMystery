@@ -1,0 +1,7 @@
+name: "Murder"
+version: "1.0"
+api: ["1.0.0"]
+main: murder.Murder
+author: "Ragnok123"
+description: "TheMurder Minigame"
+depend: ["GTCore"]
